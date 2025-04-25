@@ -1,5 +1,7 @@
 # Understanding-Kubernetes
 Gaining foundational knowledge of Kubernetes, including container orchestration, deployment management, and scaling applications efficiently.
+An application build on dotnet 8 with fully containerized and ready to deploy state taken from another git repo and deployed in the bare-metal kubernetes cluster. Attched the link of the pitstop application for referance.
+https://github.com/EdwinVW/pitstop
 
 ### Setting up minikube
 
